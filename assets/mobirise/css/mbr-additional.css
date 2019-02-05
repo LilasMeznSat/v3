@@ -1540,7 +1540,7 @@ body {
   background-image: url("../../../assets/images/wallpaper2you-472646-2000x3556.jpg");
 }
 .cid-r7Wm1WO25Y .mbr-section-subtitle {
-  color: #efefef;
+  color: #e4d295;
   text-align: center;
   font-weight: 300;
 }
@@ -2980,6 +2980,9 @@ body {
 .cid-raCBso7cLv B {
   color: #070b2f;
 }
+.cid-raCBso7cLv SPAN {
+  color: #030a49;
+}
 .cid-raBNFb48GO {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -3442,12 +3445,16 @@ body {
 }
 .cid-raFy5uxdnV H1 {
   text-align: center;
-  color: #020413;
+  color: #030a49;
 }
 .cid-raFy5uxdnV .mbr-text,
 .cid-raFy5uxdnV .mbr-section-btn {
   color: #030a49;
   text-align: left;
+}
+.cid-raFy5uxdnV .mbr-text,
+.cid-raFy5uxdnV .mbr-section-btn B {
+  color: #070b2f;
 }
 .cid-raD1X93e2x {
   padding-top: 30px;
@@ -3542,7 +3549,7 @@ body {
   }
 }
 .cid-raFtmqN679 H1 {
-  color: #020413;
+  color: #141e64;
   text-align: center;
 }
 .cid-raFtmqN679 .mbr-text,
