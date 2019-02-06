@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MeznSat-Final_v4",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 233,
     "versionPublish": "4.8.10",
@@ -4624,7 +4624,7 @@
               "color": "#efefef"
             },
             ".card-title": {
-              "color": "#ffffff"
+              "color": "#b2ccd2"
             },
             ".card-title B": {
               "color": "#b2ccd2"
