@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Vidaloka:400);
+@import url(https://fonts.googleapis.com/css?family=Crete+Round:400,400i);
 
 
 
@@ -41,7 +42,7 @@ body {
   font-size: 1.44rem;
 }
 .display-5 {
-  font-family: 'Vidaloka', serif;
+  font-family: 'Crete Round', serif;
   font-size: 1.3rem;
 }
 .display-5 > .mbr-iconfont {
